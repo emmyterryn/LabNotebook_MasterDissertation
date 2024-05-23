@@ -10,7 +10,7 @@ This github repository contains the code and analysis work done during the Resea
 * RNNmodel: this folder contains the python script with the code of the best-performing RNN model and a jupyter notebook for the visualizations.
 * combinationmodel: this folder contains the python script with the code of the combination model and a jupyter notebook for the visualizations.
 * combinationmodel_ptms: this folder contains the python script with the code of the combination model with PTMs included and a jupyter notebook for the visualizations.
-* data_preprocessing: this folder contains the jupyter notebook used for the preprocessing (alignment) of the data
+* data_preprocessing: this folder contains the jupyter notebook used for the preprocessing (alignment) of the data.
 * encoding: this folder contains jupyter notebooks used for the atomic composition encoding of the peptide sequences.
 * poster: this folder contains the jupyer notebook used for the figures in the poster.
 * summary_metrics.ipynb: this is the notebook used for the visualization of the summary of the metrics used in this study.
